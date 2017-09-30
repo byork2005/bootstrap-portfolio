@@ -119,6 +119,7 @@ header .container a {
 	margin-right: 40px;
 	padding: 0 30px;
 	width: 650px;
+	margin-bottom: 30px;
 }
 
 #biopicture {
@@ -248,10 +249,6 @@ div.col-sm-6 {
 	.myname {
 		padding: 0;
 	}
-	/*.nav ul, .navbar-nav ul, .navbar-right ul, .col-md-4 ul {
-		display: inline-block;
-		margin: 0 auto;
-	}*/
 
 	.nav li, .navbar-nav li, .navbar-right li, .col-md-4 li, .container-fluid ul {
 		display: inline-block;
@@ -260,9 +257,7 @@ div.col-sm-6 {
 
 	#main-container {
 		margin: 200px auto 0;
-
 	}
-	
 }
 
 
